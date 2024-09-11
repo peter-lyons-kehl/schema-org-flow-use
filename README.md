@@ -4,6 +4,9 @@ Inspired a little bit by https://doc.rust-lang.org/cargo/reference/registry-inde
 
 Eliminate/prevent duplicate bookmarks for the same URL.
 
+Easy navigation & fast load of listings on GitHub.
+View all links as clickable on GitHub.
+
 Bookmark Title matters: Yawas metadata. We do __not__ want any other way of exchange - that would
 complicate Yawas. We can't exchange in any other way, because WebExtensions are isolated. And we
 want only one extension (Floccus) to be in charge of synchronization (to avoid race
